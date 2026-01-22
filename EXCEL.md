@@ -1,5 +1,5 @@
 
-# 🧾 Microsoft Excel Examination Task
+# Microsoft Excel Examination Task
 
 ##  Title: Personal Monthly Expense Tracker
 - **Time Limit:** 30 minutes  
